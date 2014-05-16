@@ -5,8 +5,8 @@
 int main(int argc, char* argv[])  
 {   
 	hash_state		md;
-	int				ret = 0;
-	int				hash_index = 0;
+	int			ret = 0;
+	int			hash_index = 0;
 	unsigned  long	hashLen = 0;
 	unsigned  char	hash[MAXBLOCKSIZE];
 	
